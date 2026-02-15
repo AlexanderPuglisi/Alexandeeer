@@ -1,7 +1,5 @@
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![Fab di Unreal | Skilly](https://img.shields.io/badge/Fab%20di%20Unreal-Skilly%20%7C%20Fab-20232a?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.fab.com/sellers/Skilly)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandeeer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alexandeeer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!-- Statistiche GitHub -->
 <a href="https://github.com/Alexandeeer?tab=followers">
   <img src="https://img.shields.io/github/followers/Alexandeeer?style=for-the-badge&logo=github&label=Followers&color=333" alt="GitHub Followers">
